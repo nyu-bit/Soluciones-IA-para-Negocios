@@ -1,4 +1,4 @@
-# Soluciones-IA-para-Negocios
+# Soluciones-para-Negocios
 Mini programas de Inteligencia Artificial aplicados a negocios
 
 Este repositorio contiene pequeños proyectos de Inteligencia Artificial aplicados a negocios, ideales para automatizar tareas y mejorar procesos.
